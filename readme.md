@@ -1,23 +1,22 @@
 # Picture in Picture
 
-This is an app that will allow you to open any screen, application, or tab in a movable, resizable, window that will stay on top of anything you do. So you can have a tutorial video in the corner of your screen while you are working on something in the background.
+The Picture in Picture app allows users to open any screen, application, or tab in a movable, resizable window that stays on top of other activities. This enables users to watch tutorial videos or engage with content while working on tasks in the background.
 
-This project is from [Zero to Mastery: Jacascript Web Projects: 20 Projects to Build Your Portfolio](https://academy.zerotomastery.io/p/javascript-projects).
-This is project 3 / 20.
+The project originates from the [Zero to Mastery: JavaScript Web Projects](https://academy.zerotomastery.io/p/javascript-projects) course and is the third project out of twenty.
 
 ## Live Project
 
-The live project can be found [here](https://rperry99.github.io/picture-in-picture/).
+Access the live project [here](https://rperry99.github.io/picture-in-picture/).
 
-You can view the full list of project from this course [here](https://github.com/rperry99/ztm-20-javascript-projects).
+For the full list of projects from this course, visit [this link](https://github.com/rperry99/ztm-20-javascript-projects).
 
 ### Instructions
 
-**_This works best in Chrome on the desktop_**
+**_Best experienced in Chrome on desktop_**
 
-1. When you load the page, it will ask you what screen you want to share. You can select whatever screen, application, or browser tab you want to share.
-2. When you make your selection, click "Start" to begin picture in picture!
+1. Upon loading the page, you'll be prompted to select the screen, application, or browser tab you wish to share.
+2. After making your selection, click "Start" to activate picture-in-picture mode.
 
-## Thoughts
+## Reflection
 
-I cannot belive how simple this project was. I think picture in picture is an incredibly useful feature, and I never would hav thought I could have made this in 30 LOC. Really not even 30, if you take out the whitespace.
+I'm amazed by the simplicity of this project. Picture in Picture is an incredibly practical feature, and I never imagined I could create it with just 30 lines of code. In fact, it's even less when whitespace is removed.
